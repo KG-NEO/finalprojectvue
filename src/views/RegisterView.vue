@@ -20,7 +20,7 @@
                             Registrate en TASKY
                         </h1>
                         <label class="block text-base">
-                            <span class="text-gray-700 dark:text-txt-white-m">Correo electronico</span>
+                            <span class="text-gray-700 dark:text-txt-white-m">Nombre de Usuario</span>
                             <input
                                 class="block w-full mt-1 text-base dark:border-gray-600 dark:bg-gray-700 focus:border-primary-hover focus:outline-none focus:shadow-outline-purple dark:text-gray-300 dark:focus:shadow-outline-gray form-input px-4 py-2"
                                 placeholder="Mi usuario" type="text" />
@@ -39,7 +39,7 @@
                         </label>
                         <a class="block w-full px-4 py-2 mt-4 text-base font-medium leading-5 text-center text-white transition-colors duration-150 bg-primary border border-transparent rounded-lg active:bg-primary-hover hover:bg-primary-hover focus:outline-none focus:shadow-outline-purple"
                             href="#">
-                            Iniciar sesión
+                            Registro
                         </a>
 
                         <hr class="my-8" />
